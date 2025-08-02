@@ -69,6 +69,7 @@ Bot: Try *The Name of the Wind* by Patrick Rothfuss.
 IBM Watson Assistant
 
 UI inspired by common chat app layouts
+
 Made By: Syed Mohammad Zeeshan Rizvi
-Author:Made by Waqas Khan
+
 
