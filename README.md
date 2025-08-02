@@ -7,7 +7,7 @@ Here is a screenshot of the interface:
 ![image alt](https://github.com/Zeeshan776code/Book-Recommender-Bot/blob/main/Book%20Recommendor%20Bot.png?raw=true)
 
 🚀 Live Demo
-🔗 [Add your live site link here if deployed]
+🔗 [click here to view live link](https://zeeshan776code.github.io/Book-Recommender-Bot/)
 Example: https://yourusername.github.io/book-recommendation-chatbot
 
 💡 Features
