@@ -8,7 +8,7 @@ Here is a screenshot of the interface:
 
 🚀 Live Demo
 🔗 [click here to view live link](https://zeeshan776code.github.io/Book-Recommender-Bot/)
-Example: https://yourusername.github.io/book-recommendation-chatbot
+
 
 💡 Features
 Book recommendations based on genres like:
