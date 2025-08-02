@@ -7,7 +7,7 @@ Here is a screenshot of the interface:
 ![image alt](https://github.com/Zeeshan776code/Book-Recommender-Bot/blob/main/Book%20Recommendor%20Bot.png?raw=true)
 
 🚀 Live Demo
-🔗 [click here to view live link](https://zeeshan776code.github.io/Book-Recommender-Bot)
+🔗 .[click here to view live link](https://zeeshan776code.github.io/Book-Recommender-Bot)
 
 
 💡 Features
